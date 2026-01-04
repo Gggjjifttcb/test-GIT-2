@@ -8,5 +8,7 @@
 <body>
     <h1>hahajaj akkaka </h1>
     <p>ini adalah halaman berita</p>
+    <ul>jjj</ul>
+    <li>jjs<li>
 </body>
 </html>
