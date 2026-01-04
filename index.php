@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>hahajaj akkaka </h1>
+    <p>ini adalah halaman berita</p>
 </body>
 </html>
